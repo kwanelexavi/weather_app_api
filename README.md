@@ -1,0 +1,1 @@
+weather app with open weather api using javascripts, html and css;
